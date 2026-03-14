@@ -10,8 +10,8 @@ i did this project it my first one ever so i try to did something easy and pract
 ## **design**
 
 i designed it with a rotator and 9 switch i wanted something perfect the case it's designed for a maximum of space for cables but a minimaliste look it why it have  specific shape
-![alt text](Capture d'écran 2026-03-07 202301.png)
-**warning:ishearshe all the price in amazon french it can be lower in another shop**
+
+**warning:i shearshe all the price in amazon french it can be lower in another shop**
 
 |number|the product name|the link|the price|
 |-|-|-|-|
