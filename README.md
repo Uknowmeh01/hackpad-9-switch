@@ -8,6 +8,10 @@ i did this project it my first one ever so i try to did something easy and pract
 
 i designed it with a rotator and 9 switch i wanted something perfect the case it's designed for a maximum of space for cables but a minimaliste look it why it have  specific shape
 
+![Alt text](https://github.com/Uknowmeh01/hackpad-9-switch/blob/main/Screenshot%202026-02-22%20145840.png)
+
+![Alt text](https://github.com/Uknowmeh01/hackpad-9-switch/blob/main/Capture%20d'%C3%A9cran%202026-03-07%20202301.png)
+
 **warning:ishearshe all the price in amazon french it can be lower in another shop**
 
 |number|the product name|the link|the price|
