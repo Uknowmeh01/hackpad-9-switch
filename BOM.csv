@@ -1,9 +1,10 @@
 Number,Product Name,Quantity,Link,Price (€)
-0,Power Supply 850W,1,https://www.amazon.fr/gp/product/B0FJWGYXZK/ref=ox_sc_act_title_1?smid=A3T0O12NRI0MR5&th=1,76.91
-1,Cherry MX Switch (Box of 10),1,https://www.amazon.fr/Topiky-M%C3%A9canique-Commutateurs-Interrupteur-Remplacement/dp/B086MQXQW7,14.99
-2,Rotary Encoder + Cables (Pack of 5),1,https://www.amazon.fr/WMYCONGCONG-dencodeur-rotatifs-multicolores-sauteuse/dp/B07FJQH1F7,12.00
-3,PLA Filament 1.75mm,1,https://www.amazon.fr/GEEETECH-Filament-1-75mm-Imprimante-Spool/dp/B071DM81ZK,18.04
-4,Seeed Studio XIAO ESP32,1,https://www.amazon.fr/Seeed-Studio-ESP32C3-charge-Arduino/dp/B0B94JZ2YF,25.03
-5,3D Printer,1,https://www.amazon.fr/Adventurer-Nivellement-Automatique-Refroidissement-220%C3%97220%C3%97220mm/dp/B0CH9K2KWQ,248.99
+0,Power Supply 850W,1,https://www.amazon.fr/gp/product/B0FJWGYXZK/ref=ox_sc_act_title_1?smid=A3T0O12NRI0MR5&psc=1,76.91
+1,Cherry MX Switch (Box of 10),1,https://www.amazon.fr/gp/product/B086MQXQW7/ref=ox_sc_act_title_5?smid=A1RUTJ6LGKEAH5&psc=1,14.99
+2,Rotary Encoder + Cables (Pack of 5),1,https://www.amazon.fr/gp/product/B07FJQH1F7/ref=ox_sc_act_title_4?smid=A32QLRNWL3PNTU&psc=1,12.00
+3,PLA Filament 1.75mm,1,https://www.amazon.fr/gp/product/B071DM81ZK/ref=ox_sc_act_title_2?smid=A1ABQ17GPN7UD7&psc=1,18.04
+4,Seeed Studio XIAO ESP32,1,https://www.amazon.fr/gp/product/B0B94JZ2YF/ref=ox_sc_act_title_3?smid=A37F9WWQYM44SQ&th=1,25.03
+5,3D Printer,1,https://www.amazon.fr/gp/product/B0CH9K2KWQ/ref=ox_sc_act_title_6?smid=A2PEMQJE1RM53F&th=1,248.99
 TOTAL,,,,388.87
+
 Note: the 850W power supply is for my PC and my 3D printer, not for the macropad.
