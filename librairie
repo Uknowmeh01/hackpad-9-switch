@@ -1,0 +1,7 @@
+## Dependencies
+This project requires the following CircuitPython libraries:
+- adafruit_hid
+- rotaryio
+- digitalio
+- board
+- usb_hid
