@@ -28,5 +28,6 @@ i designed it with a rotator and 9 switch i wanted something perfect the case it
 
 
 Note: the 850W power supply is for my PC and my 3D printer, not for the macropad.
+my parents did the sanity check
 
 
