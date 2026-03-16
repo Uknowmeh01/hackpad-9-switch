@@ -2,7 +2,8 @@
 
 ## **macropad  switch**
 
-i did this project it my first one ever so i try to did something easy and practical
+i did this project it my first one ever so i try to did something easy and practical you can plug it in USB C and each punch do something 
+exemple:1-for changing song  2-pause/start 3- changing to the previous song 4-for changing the desk in the left 5-to create a new desk 6-change desk to the right 7-change led 8-do a screenshot 9-shuting down the rotator-change the volume it will be a plug and play 
 
 ## **design**
 
